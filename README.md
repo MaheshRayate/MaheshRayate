@@ -13,7 +13,4 @@
 <a href="https://www.instagram.com/maheshrayatemdr">
   <img src="https://e7.pngegg.com/pngimages/432/1016/png-clipart-computer-icons-logo-instagram-logo-miscellaneous-logo-thumbnail.png" width="40" height="40" alt="Alt Text">
 </a>
-<a href="https://www.linkedin.com/in/mahesh-rayate-2087581b9/">
-  <img src="https://i.pinimg.com/736x/92/d1/db/92d1db1521d374335498624cc95e9554.jpg" width="40" height="40" alt="Alt Text">
-</a>
 
