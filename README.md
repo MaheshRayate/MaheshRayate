@@ -8,7 +8,7 @@
 
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/mahesh-rayate-2087581b9/">
-  <img src="https://img.freepik.com/free-psd/social-media-logo-design_23-2151299455.jpg?semt=ais_hybrid&w=740&q=80" width="40" height="40" alt="Alt Text">
+  <img src="https://img.freepik.com/free-psd/social-media-logo-design_23-2151299455.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" alt="Alt Text">
 </a>
 <a href="https://www.instagram.com/maheshrayatemdr">
   <img src="https://e7.pngegg.com/pngimages/432/1016/png-clipart-computer-icons-logo-instagram-logo-miscellaneous-logo-thumbnail.png" width="40" height="40" alt="Alt Text">
