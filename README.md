@@ -6,5 +6,7 @@
 - 🌱 I’m currently learning NextJS, Typescript
 - 🚀 Tech Stack - ReactJS, Redux Toolkit, React Query, API Integration, React Testing Library, NodeJS Express, NextJS, Typescript, REST API Development, Tailwind CSS, MongoDB, MYSQL, Vercel, Git, Github, Daisy UI, ShadCN UI, Bootstrap, CSS3, HTML5, VS Code
 - 📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mahesh-rayate-2087581b9/))
+<a href="https://www.linkedin.com/in/mahesh-rayate-2087581b9/">
+  <img src="https://i.pinimg.com/736x/92/d1/db/92d1db1521d374335498624cc95e9554.jpg" width="40" height="40" alt="Alt Text">
+</a>
 -->
