@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi there I'm Mahesh 👋
 
-<!--
-**MaheshRayate/MaheshRayate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Frontend Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working at Jio Platforms Limited, Navi Mumbai
+- 🌱 I’m currently learning NextJS, Typescript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
