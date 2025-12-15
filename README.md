@@ -1,4 +1,4 @@
-## Hi there I'm Mahesh 👋
+## Hi there, I'm Mahesh 👋
 
 ## I'm a Frontend Developer
 
