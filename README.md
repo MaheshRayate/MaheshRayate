@@ -1,6 +1,6 @@
 ## Hi there, I'm Mahesh 👋
 
-## I'm a Frontend Developer
+## I'm a Fullstack Developer
 
 - 🔭 I’m currently working at Jio Platforms Limited, Navi Mumbai
 - 🌱 I’m currently learning NextJS, Typescript
