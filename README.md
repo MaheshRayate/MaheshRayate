@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable, reliable
 Here are some of the projects I've worked on:
 
 - 🛍️ **The Trendy Store** — B2C clothing e-commerce platform built with MERN
-- 💼 **HireHub** — Job portal backend built with NodeJS, ExpressJS & MySQL
+- 💼 **HireHub** — Job portal built with NodeJS, ExpressJS, MySQL and Flutter
 - 📱 **Flutter Applications** — Mobile applications using Flutter, Firebase & Riverpod
 
 ---
